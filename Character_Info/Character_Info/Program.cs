@@ -5,7 +5,7 @@
 WRITTEN BY KARL OLSEN 
 droodicus@gmail.com
 twitter.com/Droodicus
-github.com/drood1
+github.com/droodicus
 */
 
 using System;
